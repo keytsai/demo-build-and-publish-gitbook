@@ -15,7 +15,7 @@
 
 #### 網頁範例
 
-```markup
+```html
 <!DOCTYPE html>
 <html lang="zh-TW">
 
@@ -103,7 +103,7 @@
 
 ## 影音標籤
 
-```markup
+```html
 <video autoplay loop controls muted poster="c1.jpg">
     <source src="movie.mp4">
     <source src="movie2.mp4">

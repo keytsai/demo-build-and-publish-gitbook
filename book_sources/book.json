@@ -9,7 +9,7 @@
         "showLevel": false
       },
       "anchor-navigation-ex": {
-          "showLevel": false,
+          "showLevel": true,
           "associatedWithSummary": false,
           "printLog": false,
           "multipleH1": false,
@@ -30,7 +30,7 @@
           }
       },
       "edit-link": {
-        "base": "https://github.com/<你的 GitHub 帳號>/demo-build-and-publish-gitbook/edit/master/",
+        "base": "https://github.com/keytsai/demo-build-and-publish-gitbook/edit/master/",
         "label": "Edit This Page"
       },
       "ga": {
