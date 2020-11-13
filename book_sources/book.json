@@ -1,5 +1,5 @@
 {
-    "plugins": [  "anchor-navigation-ex", "copy-code-button", "theme-comscore" ],
+    "plugins": [  "anchor-navigation-ex", "code", "theme-comscore", "-lunr", "-search", "search-pro" ],
     "pluginsConfig": {
       "fontSettings": {
         "theme": "night",
